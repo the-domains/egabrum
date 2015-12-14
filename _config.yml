@@ -1,6 +1,6 @@
 name: Egabrum
 favicon: null
-layout_spectrum: 0.50193
+layout_spectrum: 0.24374
 typography_spectrum: 0.9227995439432561
 title: Academia de Ingles
 cta:
@@ -18,12 +18,12 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#3c2381'
-    - '#e74020'
-    - '#b7b7b9'
-    - '#6f6f6f'
-  brandStrength: 0.75
-  lightness: 0.3972774869762361
-  saturation: 0.2715377495624125
+    - '#3c277f'
+    - '#e5422b'
+    - '#000000'
+    - '#b5b5b5'
+  brandStrength: 0.875
+  lightness: 0.6875
+  saturation: 0.5
   rhythmicContrast: 0.5
 purpose: []
