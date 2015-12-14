@@ -1,20 +1,4 @@
-name: Egabrum
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.62908
-title: Academia de Ingles
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#b5b5b5'
   brandStrength: 0.125
   lightness: 0.6875
-  saturation: 0.5
   rhythmicContrast: 0.25
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.484234
+name: Egabrum
+opengraph: {}
 purpose: []
+typography_spectrum: 0.62908
