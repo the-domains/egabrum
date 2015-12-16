@@ -6,10 +6,10 @@ color:
     - '#e5422b'
     - '#000000'
     - '#b5b5b5'
-  brandStrength: 0.125
-  lightness: 0.6875
-  rhythmicContrast: 0.25
-  saturation: 0.5
+  brandStrength: 0.5
+  lightness: 0.677927
+  rhythmicContrast: 0.394144
+  saturation: 0.662162
 cta: {}
 layout_spectrum: 0.484234
 name: Egabrum
